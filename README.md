@@ -2,6 +2,7 @@
 A small experiment to assess the importance of regularization in a machine learning model, and understanding the differnece between L1 and L2 regularization.
 Done using GNU Octave.
 
+Based on a project that is a part of the [course on Machine Learning](https://www.coursera.org/learn/machine-learning) offered by Stanford University through Coursera.
 
 ## Problem statement
 A fabrication plant produces microchips. They go through two test to ensure to ensure correct functionality. The dataset contains the test scores (integers) of these two sets of past microchips along with whether or not they’ve been accepted. The objective here is to build a regression model to determine whether a new microchip should be accepted or rejected, given its test scores. And also to assess how well both types of regularization improves test set accuracy.
