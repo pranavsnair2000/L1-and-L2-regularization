@@ -1,5 +1,6 @@
 # L1-and-L2-regularization
 A small experiment to assess the importance of regularization in a machine learning model, and understanding the differnece between L1 and L2 regularization.
+Done using GNU Octave.
 
 
 ## Problem statement
